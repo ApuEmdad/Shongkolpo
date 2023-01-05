@@ -1,0 +1,19 @@
+.HeaderTopContainer {
+  background: #00529b 0% 0% no-repeat padding-box;
+  padding: 16px 100px;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.HeaderTopContainer p {
+  color: #ffffff;
+}
+
+.HeaderTopContainerRight {
+  display: flex;
+  align-items: center;
+}
+.HeaderTopContainerRight p {
+  margin-right: 6px;
+}

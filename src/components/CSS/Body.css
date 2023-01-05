@@ -1,0 +1,9 @@
+.BodyContainer {
+  padding: 0px 100px;
+  padding-top: 34px;
+}
+.BodyContainerTop {
+  display: grid;
+  grid-template-columns: 12fr 5fr;
+  column-gap: 73px;
+}

@@ -1,0 +1,40 @@
+.MainHeaderBottom {
+  display: flex;
+  justify-content: space-between;
+}
+.MainHeaderBottomLeftContainer {
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+.rectangle {
+  width: 4px;
+  height: 16px;
+  background-color: #343434;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.MainHeaderBottomLeftContainer p {
+  font-size: 26px;
+  font-weight: bold;
+  color: #343434;
+  margin-left: 11px;
+}
+.MainHeaderDropDown {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 21px;
+}
+.MainHeaderDropDown p {
+  font-weight: bold;
+  color: #ec1c24;
+  font-size: 26px;
+  margin-right: 12px;
+}
+.MainHeaderDropDown img {
+  width: 25px;
+  height: 14px;
+}

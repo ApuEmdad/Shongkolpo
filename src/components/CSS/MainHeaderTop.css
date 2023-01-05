@@ -1,0 +1,25 @@
+.MainHeaderTop {
+  margin-bottom: 36px;
+}
+.MainHeaderTopContainer {
+  font-size: 16px;
+  display: flex;
+  border: 0.20000000298023224px solid #707070;
+}
+.MainHeaderTopLeft {
+  background: #ec1c24 0% 0% no-repeat padding-box;
+  padding: 27px 23px;
+}
+
+.MainHeaderTopLeft p {
+  color: #fff;
+}
+
+.MainHeaderTopRight {
+  padding: 27px 0px;
+  background: #fcfcfc 0% 0% no-repeat padding-box;
+}
+
+.MainHeaderTopRight p {
+  margin-left: 62px;
+}
